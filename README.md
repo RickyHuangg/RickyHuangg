@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ricky Huang</h1>
 
-<h3 align="center">a 19-year old Computer Engineer at McMaster University, im a learning developer who does web development </h3>
+## **About me**
 
+<br>
 
+- A passionate Self-taught Web developer
+- Currently attending McMaster University as a Computer Engineer
+- I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/ricky-huang-20010523b/)
+
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
