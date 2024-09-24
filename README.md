@@ -2,6 +2,8 @@
 
 <h3 align="center">a 19-year old Computer Engineer at McMaster University, im a learning developer who does web development </h3>
 
+<br><br>
+
 <b> Skills</b>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
