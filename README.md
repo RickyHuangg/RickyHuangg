@@ -2,7 +2,16 @@
 
 <h3 align="center">a 19-year old Computer Engineer at McMaster University, im a learning developer who does web development </h3>
 
-<br><br>
+<br>
+
+
+
+	
+
+
+
+
+<br>
 
 <b> Skills</b>
 
