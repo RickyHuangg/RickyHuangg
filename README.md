@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I'm Ricky! 👋
+🔥 Computer Engineer 
+✨ Favorite Tech: JavaScript, React, Typescript, Python ...
+📧 Rhruan2@gmail.com
 
 <!--
 **RickyHuangg/RickyHuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
