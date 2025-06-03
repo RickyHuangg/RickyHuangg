@@ -13,10 +13,10 @@
 
 ## About Me
 
-- 🎓 Currently pursuing a Bachelor of Engineering in Computer Engineering at McMaster University
-- 🌱 Passionate self-taught web developer building full-stack applications
-- 🔭 Working on a Chrome extension that tracks study time and delivers quick quizzes
-- 💬 Ask me about C, C++, Python, JavaScript, embedded systems, and web development
+- 🎓 Currently pursuing a Bachelor of Engineering in Computer Engineering at McMaster University  
+- 🌱 Passionate self-taught web developer building full-stack applications  
+- 🤿 Active member of McMaster University’s Submarine Robotics Team (UAUV)  
+- 💬 Ask me about C, C++, Python, JavaScript, embedded systems, and web development  
 - 🤝 Open to internship or full-time opportunities in software/web development
 
 ---
@@ -48,29 +48,6 @@
 
 ---
 
-## 📂 Projects
-
-> A few highlights of what I’ve built. Click each title to view the repository.
-
-- **Study Buddy Chrome Extension**  
-  🛠️ JavaScript • Chrome APIs • OpenAI API • MongoDB  
-  • Tracks time on YouTube and injects quick quizzes on flagged topics.  
-  • Stores user progress and quiz history in a MongoDB backend.  
-  • Implements retry logic for fetching quiz questions from a custom API endpoint.
-
-- **Restaurant Website (In Progress)**  
-  🛠️ HTML • CSS • JavaScript • Figma  
-  • Designing a responsive, single-page website for a local restaurant.  
-  • Wireframing in Figma; building with semantic HTML5 and modern CSS3.  
-  • Planning to integrate a reservation form using Node.js backend.
-
-- **Embedded Systems Lab Demos**  
-  🛠️ C • ARM • TM4C • UART • I²C  
-  • Implemented a UART-based serial monitor on TM4C1294 to demonstrate real-time data logging.  
-  • Configured I²C peripherals for temperature sensor interfacing and data visualization.
-
----
-
 ## 🎓 Education
 
 **McMaster University** — B.Eng. in Computer Engineering  
@@ -89,25 +66,4 @@
 
 <p align="center">
   <a href="https://github.com/RickyHuangg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ricky-huang-20010523b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyHuangg&show_icons=true&theme=tokyonight" alt="Ricky’s GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyHuangg&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-
