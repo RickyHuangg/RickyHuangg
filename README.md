@@ -1,35 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ricky Huang</h1>
+<h1 align="center">Hi 👋, I’m Ricky Huang</h1>
 
-## **About me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricky-huang-20010523b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br>
+---
 
-- A passionate Self-taught Web developer
-- Currently attending McMaster University as a Computer Engineer
-- I’m currently open for an Intern or a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/ricky-huang-20010523b/)
+## About Me
 
-<br>
+- 🎓 Currently pursuing a Bachelor of Engineering in Computer Engineering at McMaster University
+- 🌱 Passionate self-taught web developer building full-stack applications
+- 🔭 Working on a Chrome extension that tracks study time and delivers quick quizzes
+- 💬 Ask me about C, C++, Python, JavaScript, embedded systems, and web development
+- 🤝 Open to internship or full-time opportunities in software/web development
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-<!--
-**RickyHuangg/RickyHuangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VSCode-%231979D1.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
+
+---
+
+## 📂 Projects
+
+> A few highlights of what I’ve built. Click each title to view the repository.
+
+- **Study Buddy Chrome Extension**  
+  🛠️ JavaScript • Chrome APIs • OpenAI API • MongoDB  
+  • Tracks time on YouTube and injects quick quizzes on flagged topics.  
+  • Stores user progress and quiz history in a MongoDB backend.  
+  • Implements retry logic for fetching quiz questions from a custom API endpoint.
+
+- **Restaurant Website (In Progress)**  
+  🛠️ HTML • CSS • JavaScript • Figma  
+  • Designing a responsive, single-page website for a local restaurant.  
+  • Wireframing in Figma; building with semantic HTML5 and modern CSS3.  
+  • Planning to integrate a reservation form using Node.js backend.
+
+- **Embedded Systems Lab Demos**  
+  🛠️ C • ARM • TM4C • UART • I²C  
+  • Implemented a UART-based serial monitor on TM4C1294 to demonstrate real-time data logging.  
+  • Configured I²C peripherals for temperature sensor interfacing and data visualization.
+
+---
+
+## 🎓 Education
+
+**McMaster University** — B.Eng. in Computer Engineering  
+*September 2023 – Present*  
+- Relevant Coursework: Data Structures & Algorithms, Embedded Systems, Microprocessor Interfacing, Software Engineering, Digital Systems
+
+---
+
+## 🌟 Achievements & Certifications
+
+- ✅ Dean’s Honour List (Winter 2024)  
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/RickyHuangg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ricky-huang-20010523b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyHuangg&show_icons=true&theme=tokyonight" alt="Ricky’s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyHuangg&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+
