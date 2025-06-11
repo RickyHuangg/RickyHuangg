@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ricky-huang-20010523b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:Rhruan2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/ricky-huang-20010523b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:Rhruan2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -84,6 +84,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RickyHuangg&show_icons=true&theme=tokyonight" alt="Ricky’s GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyHuangg&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
